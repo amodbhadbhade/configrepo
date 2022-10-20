@@ -1,0 +1,6 @@
+--- 
+my: 
+  appName: "Configuration Settings for Dev"
+  greeting: "Configuration Settings for Dev Environment"
+  list: 
+    values: "apple-dev,banana-dev,Mango-dev"
