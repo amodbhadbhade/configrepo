@@ -1,0 +1,6 @@
+--- 
+my: 
+  appName: "Configuration Settings for UAT"
+  greeting: "Configuration Settings for UAT Environment"
+  list: 
+    values: "apple-UAT,banana-UAT,Mango-UAT"
